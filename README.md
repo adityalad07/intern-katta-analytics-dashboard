@@ -3,8 +3,9 @@
 **Tools:** Power BI, DAX, Data Modeling, Multi-page Dashboard Design
 **Dataset:** Synthetic dataset (built for internship training purposes, no real company data)
 
-![Product Analytics](screenshots/product-analytics.png)
 ![Learning Analytics](screenshots/learning-analytics.png)
+![Product Analytics](screenshots/product-analytics.png)
+
 
 ### Problem
 An online learning platform ("Intern Katta") needs to answer two connected questions: **where are visitors dropping off** on their way to enrolling in a course, and **which courses are actually performing** once users are learning. Without a unified view, marketing can't tell if underperformance is a traffic problem, product can't tell if it's a UX problem, and the business can't tell which courses are worth doubling down on.
