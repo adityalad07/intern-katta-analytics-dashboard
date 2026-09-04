@@ -3,8 +3,8 @@
 **Tools:** Power BI, DAX, Data Modeling, Multi-page Dashboard Design
 **Dataset:** Synthetic dataset (built for internship training purposes, no real company data)
 
-![Learning Analytics](screenshots/learning-analytics.png)
-![Product Analytics](screenshots/product-analytics.png)
+![Learning Analytics](./screenshot/learning-analytics.png)
+![Product Analytics](./screenshot/product-analytics.png)
 
 
 ### Problem
